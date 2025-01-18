@@ -33,3 +33,8 @@ Publications
   Discrete Contin. Dyn. Syst., **40** (2020), 3629--3656.
   [Journal Link](https://www.aimsciences.org/article/doi/10.3934/dcds.2020032)
 
+Thesis
+======
+*Symmetry breaking in semilinear boundary value problems*,  
+PhD Thesis available [https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/69734](here).
+
