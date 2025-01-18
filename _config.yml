@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Joel Kübler"
   pronouns         : # example: "she/her"  
-  bio              : "Research in Partial Differential Equations"
-  location         : "DE"
+  bio              : "Partial Differential Equations"
+  location         : "Germany"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "joel.kuebler.math@gmail.com" 
