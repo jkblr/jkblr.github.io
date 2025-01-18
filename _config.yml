@@ -22,10 +22,10 @@ repository               : "jkblr.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Joel"
+  name             : "Joel Kübler"
   pronouns         : # example: "she/her"  
   bio              : "Research in Partial Differential Equations"
-  location         : "De"
+  location         : "DE"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "joel.kuebler.math@gmail.com" 
