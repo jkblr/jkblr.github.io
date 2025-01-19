@@ -22,6 +22,7 @@ Publications
 - J. Kübler and T. Weth,  
   *Rotating Waves in Nonlinear Media and Critical Degenerate Sobolev Inequalities*,  
   to appear in Anal. PDE.
+  [Journal Announcement](https://msp.org/soon/coming.php?jpath=apde)
 
 - O. Agudelo, J. Kübler and T. Weth,    
   *Spiraling solutions of nonlinear Schrödinger equations*,  
