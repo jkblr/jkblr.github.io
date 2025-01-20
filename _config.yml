@@ -21,8 +21,8 @@ repository               : "jkblr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Joel Kübler"
+  avatar           : #"profile.png"
+  name             : #"Joel Kübler"
   pronouns         : # example: "she/her"  
   bio              : "Partial Differential Equations"
   location         : "Germany"
