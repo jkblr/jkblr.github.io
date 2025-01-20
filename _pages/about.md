@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Academic Page"
+title: "Academic Homepage of Joel Kübler"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+My research is concerned with Partial Differential Equations.
+In particular, I am interested in elliptic and elliptic-hyperbolic problems,
+as well as related questions in fluid dynamics.
 
 Publications
 ======
