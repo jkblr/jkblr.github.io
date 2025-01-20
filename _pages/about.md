@@ -25,7 +25,7 @@ Publications
 
 - J. Kübler and T. Weth,  
   *Rotating Waves in Nonlinear Media and Critical Degenerate Sobolev Inequalities*,  
-  to appear in Anal. PDE.
+  to appear in Anal. PDE.  
   [Journal Announcement](https://msp.org/soon/coming.php?jpath=apde)
 
 - O. Agudelo, J. Kübler and T. Weth,    
@@ -34,12 +34,12 @@ Publications
   [Journal Link](https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/abs/spiraling-solutions-of-nonlinear-schrodinger-equations/20BA0169C5964F7CF1FB150DCFABC568)
 
 - J. Kübler and T. Weth,  
-  *Spectral asymptotics of radial solutions and nonradial bifurcation for the H\'enon equation*,  
+  *Spectral asymptotics of radial solutions and nonradial bifurcation for the Hénon equation*,  
   Discrete Contin. Dyn. Syst., **40** (2020), 3629--3656.  
   [Journal Link](https://www.aimsciences.org/article/doi/10.3934/dcds.2020032)
 
 Thesis
 ======
 *Symmetry breaking in semilinear boundary value problems*,  
-PhD Thesis available [here](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/69734).
+PhD Thesis, available [here](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/69734).
 
