@@ -12,7 +12,7 @@ In particular, I am interested in elliptic and elliptic-hyperbolic problems,
 as well as related questions in fluid dynamics.
 
 Publications
-======
+====
 - J. Kübler,  
   *Second Order Spectral Estimates and Symmetry Breaking for Rotating Wave Solutions*,
   submitted.  
@@ -39,7 +39,7 @@ Publications
   [Journal Link](https://www.aimsciences.org/article/doi/10.3934/dcds.2020032)
 
 Thesis
-======
+====
 *Symmetry breaking in semilinear boundary value problems*,  
 PhD Thesis, available [here](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/69734).
 
