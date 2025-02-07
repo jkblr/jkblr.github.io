@@ -18,15 +18,15 @@ Publications
   submitted.  
   [Preprint](https://arxiv.org/abs/2501.00109)
 
+- J. Kübler and T. Weth,  
+  *Rotating Waves in Nonlinear Media and Critical Degenerate Sobolev Inequalities*,  
+  Anal. PDE. **18** (2025), 307--360.
+  [Journal Announcement](https://msp.org/soon/coming.php?jpath=apde)
+
 - J. Kübler,  
   *On the spectrum of a mixed-type operator with applications to rotating waves*,  
   Calc. Var. Partial Differential Equations **62** (2023), 1--30.  
   [Journal Link](https://link.springer.com/article/10.1007/s00526-022-02351-z)
-
-- J. Kübler and T. Weth,  
-  *Rotating Waves in Nonlinear Media and Critical Degenerate Sobolev Inequalities*,  
-  to appear in Anal. PDE.  
-  [Journal Announcement](https://msp.org/soon/coming.php?jpath=apde)
 
 - O. Agudelo, J. Kübler and T. Weth,    
   *Spiraling solutions of nonlinear Schrödinger equations*,  
