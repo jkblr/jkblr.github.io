@@ -42,4 +42,9 @@ Thesis
 ===
 *Symmetry breaking in semilinear boundary value problems*,  
 PhD Thesis, available [here](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/69734).
+Thesis
+===
+*Symmetry breaking in semilinear boundary value problems*,  
+PhD Thesis, available [here](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/69734).
 
+The LaTeX template used for this thesis is publicly available on [GitHub](https://github.com/jkblr/thesis_template).
