@@ -31,20 +31,20 @@ author:
   email            : "joel.kuebler.math@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #
+  arxiv            : "https://arxiv.org/a/kubler_j_2.html"
+  googlescholar    : "https://scholar.google.de/citations?user=o6DyvyYAAAAJ&hl=de"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3743-311X"
   semantic         : # URL
   pubmed           : #
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Joel-Kuebler"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "jkblr"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
